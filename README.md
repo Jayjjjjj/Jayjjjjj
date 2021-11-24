@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Moyu
 - 🌱 I’m currently learning Golang & Java Web development
-- 📫 How to reach me: [My Blog](https://jay6.cn)
+- 📫 How to reach me: [My Blog](https://blog.jay6.tech)
 
 <!--
 **Jayjjjjj/Jayjjjjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
